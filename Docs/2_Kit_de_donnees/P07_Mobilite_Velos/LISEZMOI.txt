@@ -1,0 +1,10 @@
+P07 · Mobilité urbaine : vélos en libre-service
+===============================================
+Kit de données internes fourni par l'enseignant.
+Ces fichiers simulent des exports réels transmis par différents services : ils sont volontairement
+hétérogènes. Ne les modifiez pas à la main : toute correction doit être faite dans votre pipeline ETL.
+
+Fichiers :
+- tickets_maintenance.xlsx : ordres de travail de maintenance
+- renommage_stations.csv : historique des renommages de stations
+- journal_incidents.log : journal texte des incidents de stations
